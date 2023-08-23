@@ -1,0 +1,2 @@
+# ITnetwork-zkouska
+ databaze pojistencu 
